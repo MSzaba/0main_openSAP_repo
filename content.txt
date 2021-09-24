@@ -1,3 +1,4 @@
 test 1
 test from feature 1
 test from feature 2
+test from feature 3
